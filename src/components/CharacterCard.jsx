@@ -1,5 +1,4 @@
 import { Card } from "flowbite-react";
-import { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faHeartbeat,
